@@ -7,6 +7,11 @@ in this program there are builtin functions created by us and functions executed
 there are some bugs to fix as having made a basic version without bonus 
 some features of a normal shell are not enabled.
 
+# How to launch our minishell
+just need to launch sh start.sh and automatically it will be ready on your terminal.
+
+<img width="493" alt="Schermata 2021-06-15 alle 15 19 23" src="https://user-images.githubusercontent.com/61160587/122059874-590e8880-cded-11eb-8915-2a03631f55c9.png">
+
 
 
 
